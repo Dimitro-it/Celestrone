@@ -147,9 +147,9 @@ h1 {
 
 .third-screen {
     width: 100%;
-    height: 1047px;
+    height: 1100px;
     background-color: rgba(41, 41, 41, 1);
-    position: absolute;
+    /* position: absolute; */
 }
 
 .writting2-cont {
@@ -291,6 +291,7 @@ h1 {
 
 .goods-wrap {
     position: relative;
+    display: inline-block;
 }
 
 .telescope-first {
@@ -322,4 +323,107 @@ h1 {
     font-weight: 500;
     font-size: 32px;
     color: white;
+    display: inline-block;
+    margin: 0;
+    margin: 20px 50px;
+}
+
+.description {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.stars-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about {
+    font-family: 'Roboto', 'sans serif';
+    font-weight: 500;
+    font-size: 15px;
+    color: white;
+    display: inline-block;
+    margin: 20px 0 0 0;
+    max-width: 250px;
+    text-align: center;
+}
+
+.semi-rectangle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0 0 0;
+}
+
+.rect-writting {
+    font-family: 'Roboto', 'sans serif';
+    font-weight: 400;
+    font-size: 16px;
+    color: white;
+    display: inline-block;
+    padding: 12px 26px;
+    background-color: black;
+    opacity: 40%;
+    border-radius: 10px 1px 10px 1px;
+}
+
+.button-wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px 0 0 0;
+    position: relative;
+}
+
+.outer-rect3 {
+    background-color: rgba(255, 77, 22, 1);
+    width: 135px;
+    height: 56px;
+    border-radius: 36px;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    top: 10px;
+    left: 30%;
+}
+
+.inner-rect3 {
+    display: inline-block;
+    position: absolute;
+    width: 125px;
+    height: 46px;
+    border-radius: 36px;
+    background-color: rgba(22, 24, 27, 1);
+}
+
+.inner-content3 {
+    display: inline-block;
+    position: absolute;
+    text-decoration: none;
+    color: white;
+    font-family: 'Roboto', 'sans serif';
+    font-weight: 600;
+    font-size: 24px;
+    top: 9px;
+    left: 15%;
+}
+
+.right-arrow {
+    width: 20px;
+}
+
+.fourth-screen {
+    width: 100%;
+    height: 1100px;
+    background-color: rgba(25, 32, 37, 1);
 }
