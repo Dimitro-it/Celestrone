@@ -2,18 +2,37 @@
     list-style: none;
     margin: 0;
     padding: 0;
-    font-family: 'Roboto', 'sans-serif';
+    font-family: 'JetBrains Mono', 'Roboto', 'sans-serif';
     font-weight: 500;
     font-size: 24px;
     color: white;
 }
 
-nav {
-    margin: 30px 0 0 35px;
+li {
+    position: relative;
     display: inline-block;
+    text-decoration: none;
+    color: white;
 }
 
-li {
+li::before {
+    content: "";
+    position: absolute;
+    bottom: -2px;
+    height: 6px;
+    width: 100%;
+    background: #ffffff;
+    border-radius: 50px;
+    transform: scaleX(0);
+    transition: transform 0.1s linear;
+}
+
+li:hover::before {
+    transform: scaleX(1);
+}
+
+nav {
+    margin: 10px 0 0 35px;
     display: inline-block;
 }
 
@@ -48,10 +67,28 @@ body {
 
 .magnifaer-icon {
     margin-right: 40px;
+    transition: transform 0.3s ease;
+}
+
+.magnifaer-icon:hover {
+    transform: scale(1.1);
 }
 
 .lang-icon {
     margin-right: 24px;
+    transition: transform 0.3s ease;
+}
+
+.lang-icon:hover {
+    transform: scale(1.1);
+}
+
+.man-icon {
+    transition: transform 0.3s ease;
+}
+
+.man-icon:hover {
+    transform: scale(1.1);
 }
 
 .first-screen {
@@ -62,11 +99,17 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0) 40%), 
+    url('../img/Down-Foto.jpg');  
+    background-size: cover;   
+    background-position: center;            
 }
 
 .link {
     text-decoration: none;
     color: white;
+    font-size: 24px;
+    font-weight: 500;
 }
 
 h1 {
@@ -77,16 +120,6 @@ h1 {
     text-align: center;
     margin: 0;
     text-shadow: 10px 10px 30px black;
-}
-
-.button-link {
-    display: flex;          /* Позволяет элементам внутри стоять в ряд */
-    align-items: center;    /* Центрирует иконку и текст по вертикали */
-    justify-content: center; /* Центрирует по горизонтали */
-    text-decoration: none;  /* Убирает стандартное синее подчеркивание текста */
-    width: 100%;            /* Растягиваем на всю ширину родителя */
-    height: 100%;           /* Растягиваем на всю высоту родителя */
-    
 }
 
 .outer-rect {
@@ -971,6 +1004,31 @@ footer {
     margin-bottom: 30px;
     text-align: left;
     letter-spacing: 2px;
+}
+
+.linksIN {
+    position: relative;
+    text-decoration: none;
+}
+
+.linksIN::before {
+    content: "";
+    position: absolute;
+    bottom: -2px;
+    height: 6px;
+    width: 100%;
+    background: #ffffff;
+    border-radius: 50px;
+    transform: scaleX(0);
+    transition: transform 0s linear;
+}
+
+.linksIN:hover::before {
+    transform: scaleX(1);
+}
+
+.linksOUT {
+    text-decoration: none;
 }
 
 .case {
