@@ -52,8 +52,8 @@ body {
 
 .logo-name {
     display: inline-block;
-    font-family: 'Roboto Serif', 'sans-serif';
-    font-weight: 700;
+    font-family: 'Lexend', 'sans-serif';
+    font-weight: 800;
     font-size: 32px;
     color: white;
     margin-bottom: 305px;
@@ -113,7 +113,7 @@ body {
 }
 
 h1 {
-    font-family: 'Roboto', 'sans-serif';
+    font-family: 'Lexend', 'sans-serif';
     font-weight: 700;
     font-size: 100px;
     color: white;
@@ -149,7 +149,7 @@ h1 {
 
 .mainwritting-button {
     display: inline-block;
-    font-family: 'Roboto Serif', 'sans-serif';
+    font-family: 'Lexend', 'sans-serif';
     font-weight: 600;
     font-size: 32px;
     color: white;
@@ -206,7 +206,7 @@ h1 {
 .writting2 {
     display: inline-block;
     margin: 0;
-    font-family: 'Roboto Slab', 'sans-serif';
+    font-family: 'Lexend', 'sans-serif';
     font-weight: 700;
     font-size: 64px;
     color: white;
@@ -245,7 +245,7 @@ h1 {
     position: absolute;
     text-decoration: none;
     color: white;
-    font-family: 'Roboto Serif', 'sans serif';
+    font-family: 'Lexend', 'sans serif';
     font-weight: 600;
     font-size: 24px;
     top: 20px;
@@ -256,12 +256,12 @@ h1 {
     display: inline-block;
     position: absolute;
     top: 268px;
-    left: 15%;
+    left: 8%;
 }
 
 .wrapp-phrase > p {
     color: white;
-    font-family: 'Roboto', 'sans serif';
+    font-family: 'Lexend', 'sans serif';
     font-weight: 700;
     font-size: 54px;
     margin: 0;
@@ -299,7 +299,7 @@ h1 {
     position: absolute;
     text-decoration: none;
     color: white;
-    font-family: 'Roboto Serif', 'sans serif';
+    font-family: 'Lexend', 'sans serif';
     font-weight: 600;
     font-size: 24px;
     top: 20px;
@@ -310,14 +310,14 @@ h1 {
     display: inline-block;
     position: absolute;
     top: 268px;
-    left: 15%;
+    left: 10%;
 }
 
 .wrapp-phrase1 > p {
     color: white;
-    font-family: 'Roboto', 'sans serif';
+    font-family: 'Lexend', 'sans serif';
     font-weight: 700;
-    font-size: 54px;
+    font-size: 51px;
     margin: 0;
 }
 
@@ -362,7 +362,7 @@ h1 {
 }
 
 .goods-name {
-    font-family: 'Roboto', 'sans serif';
+    font-family: 'Lexend', 'sans serif';
     font-weight: 500;
     font-size: 32px;
     color: white;
@@ -390,7 +390,7 @@ h1 {
 }
 
 .about {
-    font-family: 'Roboto', 'sans serif';
+    font-family: 'Lexend', 'sans serif';
     font-weight: 500;
     font-size: 15px;
     color: white;
@@ -408,7 +408,7 @@ h1 {
 }
 
 .rect-writting {
-    font-family: 'Roboto', 'sans serif';
+    font-family: 'Lexend', 'sans serif';
     font-weight: 400;
     font-size: 16px;
     color: white;
@@ -454,10 +454,10 @@ h1 {
     position: absolute;
     text-decoration: none;
     color: white;
-    font-family: 'Roboto', 'sans serif';
+    font-family: 'Lexend', 'sans serif';
     font-weight: 500;
     font-size: 24px;
-    top: 9px;
+    top: 7px;
     left: 15%;
 }
 
@@ -490,7 +490,7 @@ h1 {
     position: absolute;
     top: 230px;
     left: 28%;
-    padding: 60px 210px;
+    padding: 60px 225px;
     background-color: black;
     opacity: 60%;
 }
@@ -498,7 +498,7 @@ h1 {
 .writting3 {
     margin: 0;
     display: inline-block;
-    font-family: 'Roboto', 'sans serif';
+    font-family: 'Lexend', 'sans serif';
     font-weight: 500;
     font-size: 48px;
     color: white;
@@ -534,11 +534,11 @@ h1 {
     position: absolute;
     text-decoration: none;
     color: white;
-    font-family: 'Roboto', 'sans serif';
+    font-family: 'Lexend', 'sans serif';
     font-weight: 600;
     font-size: 28px;
     top: 22px;
-    left: 11%;
+    left: 9%;
 }
 
 .rectangle1 {
@@ -577,7 +577,7 @@ h1 {
     position: absolute;
     text-decoration: none;
     color: white;
-    font-family: 'Roboto', 'sans serif';
+    font-family: 'Lexend', 'sans serif';
     font-weight: 600;
     font-size: 28px;
     top: 22px;
@@ -587,7 +587,7 @@ h1 {
 .writting5 {
     margin: 0;
     display: inline-block;
-    font-family: 'Roboto', 'sans serif';
+    font-family: 'Lexend', 'sans serif';
     font-weight: 500;
     font-size: 48px;
     color: white;
@@ -620,7 +620,7 @@ h1 {
 .land-writting {
     margin: 0;
     display: inline-block;
-    font-family: 'Montserrat', 'sans serif';
+    font-family: 'Lexend', 'sans serif';
     font-weight: 600;
     font-size: 48px;
     color: white;
@@ -633,7 +633,7 @@ h1 {
 .land-writting1 {
     margin: 0;
     display: inline-block;
-    font-family: 'Montserrat', 'sans serif';
+    font-family: 'Lexend', 'sans serif';
     font-weight: 400;
     font-size: 32px;
     color: white;
@@ -669,11 +669,11 @@ h1 {
     position: absolute;
     text-decoration: none;
     color: white;
-    font-family: 'Roboto', 'sans serif';
+    font-family: 'Lexend', 'sans serif';
     font-weight: 600;
     font-size: 28px;
     top: 22px;
-    left: 14%;
+    left: 10%;
 }
 
 .logo-land {
@@ -684,7 +684,7 @@ h1 {
 
 .tagline {
     margin: 0;
-    font-family: 'Roboto', 'sans serif';
+    font-family: 'Lexend', 'sans serif';
     font-weight: 500;
     font-size: 64px;
     color: white;
@@ -695,7 +695,7 @@ h1 {
 
 .beneath-line {
     margin: 0;
-    font-family: 'Roboto', 'sans serif';
+    font-family: 'Lexend', 'sans serif';
     font-weight: 400;
     font-size: 30px;
     color: white;
@@ -752,7 +752,7 @@ h1 {
 
 .about-per1 {
     margin: 0;
-    font-family: 'Montserrat', 'sans serif';
+    font-family: 'Lexend', 'sans serif';
     font-weight: 400;
     font-size: 32px;
     color: white;
@@ -766,7 +766,7 @@ h1 {
 
 .bold-num {
     margin: 0;
-    font-family: 'Montserrat', 'sans serif';
+    font-family: 'Lexend', 'sans serif';
     font-weight: 600;
     font-size: 60px;
     color: white;
@@ -780,7 +780,7 @@ h1 {
 
 .about-person {
     margin: 0;
-    font-family: 'Montserrat', 'sans serif';
+    font-family: 'Lexend', 'sans serif';
     font-weight: 300;
     font-size: 32px;
     color: white;
@@ -801,7 +801,7 @@ h1 {
 
 .about-per2 {
     margin: 0;
-    font-family: 'Montserrat', 'sans serif';
+    font-family: 'Lexend', 'sans serif';
     font-weight: 400;
     font-size: 32px;
     color: white;
@@ -815,7 +815,7 @@ h1 {
 
 .bold-num2 {
     margin: 0;
-    font-family: 'Montserrat', 'sans serif';
+    font-family: 'Lexend', 'sans serif';
     font-weight: 600;
     font-size: 60px;
     color: white;
@@ -829,7 +829,7 @@ h1 {
 
 .about-person2 {
     margin: 0;
-    font-family: 'Montserrat', 'sans serif';
+    font-family: 'Lexend', 'sans serif';
     font-weight: 300;
     font-size: 32px;
     color: white;
@@ -843,7 +843,7 @@ h1 {
 
 .about-per3 {
     margin: 0;
-    font-family: 'Montserrat', 'sans serif';
+    font-family: 'Lexend', 'sans serif';
     font-weight: 400;
     font-size: 32px;
     color: white;
@@ -857,7 +857,7 @@ h1 {
 
 .bold-num3 {
     margin: 0;
-    font-family: 'Montserrat', 'sans serif';
+    font-family: 'Lexend', 'sans serif';
     font-weight: 600;
     font-size: 60px;
     color: white;
@@ -871,7 +871,7 @@ h1 {
 
 .about-person3 {
     margin: 0;
-    font-family: 'Montserrat', 'sans serif';
+    font-family: 'Lexend', 'sans serif';
     font-weight: 300;
     font-size: 32px;
     color: white;
@@ -905,7 +905,7 @@ footer {
 
 .letter-writting {
     margin: 0 0 0 22px;
-    font-family: 'Montserrat', 'sans serif';
+    font-family: 'Lexend', 'sans serif';
     font-weight: 600;
     font-size: 40px;
     color: white;
@@ -920,14 +920,14 @@ footer {
     position: absolute;
     top: 270px;
     left: 12%;
-    padding: 65px 600px;
+    padding: 80px 600px;
     background-color: black;
     opacity: 60%;
 }
 
 .text {
     margin: 0;
-    font-family: 'Roboto', 'sans serif';
+    font-family: 'Lexend', 'sans serif';
     font-weight: 600;
     font-size: 30px;
     color: white;
@@ -967,7 +967,7 @@ footer {
     position: absolute;
     text-decoration: none;
     color: white;
-    font-family: 'Roboto', 'sans serif';
+    font-family: 'Lexend', 'sans serif';
     font-weight: 600;
     font-size: 28px;
     top: 22px;
@@ -992,23 +992,19 @@ footer {
 
 .links {
     display: inline-block;
-
 }
 
-.links > p {
+.linksIN {
+    position: relative;
+    text-decoration: none;
     margin: 0;
-    font-family: 'Roboto', 'sans serif';
+    font-family: 'Lexend', 'sans serif';
     font-weight: 500;
     font-size: 22px;
     color: rgba(224, 224, 224, 1);
     margin-bottom: 30px;
     text-align: left;
     letter-spacing: 2px;
-}
-
-.linksIN {
-    position: relative;
-    text-decoration: none;
 }
 
 .linksIN::before {
@@ -1027,10 +1023,6 @@ footer {
     transform: scaleX(1);
 }
 
-.linksOUT {
-    text-decoration: none;
-}
-
 .case {
     display: flex;
     justify-content: center;
@@ -1041,7 +1033,7 @@ footer {
 
 .footer-link {
     margin: 0;
-    font-family: 'Roboto', 'sans serif';
+    font-family: 'Lexend', 'sans serif';
     font-weight: 600;
     font-size: 30px;
     color: white;
@@ -1070,7 +1062,7 @@ footer {
 
 .country-region {
     margin: 0 0 0 90px;
-    font-family: 'Roboto', 'sans serif';
+    font-family: 'Lexend', 'sans serif';
     font-weight: 500;
     font-size: 24px;
     color: rgb(255, 255, 255);
@@ -1084,7 +1076,7 @@ footer {
 
 .termsOfUse {
     margin: 0 0 0 90px;
-    font-family: 'Roboto', 'sans serif';
+    font-family: 'Lexend', 'sans serif';
     font-weight: 400;
     font-size: 20px;
     color: rgb(255, 255, 255);
@@ -1096,6 +1088,15 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.linkIN {
+    text-decoration: none;
+    font-family: 'Lexend', 'sans serif';
+    font-weight: 500;
+    font-size: 22px;
+    color: rgba(224, 224, 224, 1);
+    margin-bottom: 30px;
 }
 
 .box {
