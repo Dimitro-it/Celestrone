@@ -136,6 +136,11 @@ h1 {
     transform: translateX(-50%);
 }
 
+.outer-rect:hover {
+    background-color: white;
+    transition: all 0.7s;
+}
+
 .inner-rect {
     display: inline-block;
     background-color: rgba(214, 54, 0, 1);
@@ -145,6 +150,11 @@ h1 {
     top: 5px;
     left: 1%;
     border-radius: 36px;
+}
+
+.inner-rect:hover {
+    background-color: black;
+    transition: all 0.7s;
 }
 
 .mainwritting-button {
